@@ -7,7 +7,7 @@ public class Foo {
 		System.out.println("Hi from GitHub");
 		System.out.println("hi 'cynt' branch, from Eclipse");
 		System.out.println("hello worlds"); 
-		System.out.println("hello 'person2', From Eclipse");
+		System.out.println("hello 'person2', From Eclipse"); 
 	}
 
 }
